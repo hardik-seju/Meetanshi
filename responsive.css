@@ -1,0 +1,300 @@
+/*media_query */
+@media only screen and (max-width: 1310px) {
+    .social-right .icons i {
+        font-size: 36px;
+        margin: 0 12px;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .icons {
+        padding-left: 0;
+    }
+
+    .sec2div {
+        width: 90%;
+    }
+
+    .leftform1 input {
+        width: 90%;
+    }
+
+    .leftform1 textarea {
+        width: 100%;
+    }
+
+    .header-right form {
+        width: auto;
+    }
+
+    .header-left h4 {
+        font-weight: normal;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    .header-right form h1 {
+        font-size: 18px;
+    }
+
+    .header-right form a {
+        margin-top: 58px;
+    }
+
+    .customer p {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 993px) {
+    .header-right {
+        width: 45%;
+    }
+
+    .down1 {
+        width: 90%;
+    }
+
+    .custreviews {
+        width: 98%;
+    }
+
+    .leftform1 input {
+        width: 100%;
+    }
+
+    .header-right form {
+        width: 350px;
+    }
+
+    .header-right form a {
+        margin-top: 58px;
+    }
+
+    .left4 {
+        width: auto;
+    }
+
+    .pkgs .pkg {
+        width: 290px;
+    }
+
+    .leftform1 textarea {
+        width: 100%;
+        height: 150px;
+    }
+
+    .sec4 {
+        width: 90%;
+    }
+
+    .right4 {
+        width: auto;
+    }
+
+    .right4 p {
+        font-size: 14px;
+        letter-spacing: 0px;
+    }
+
+    .right4hr {
+        margin: 10px 0;
+    }
+
+    .features-title-1,
+    .features-title-2 {
+        margin: 18px 0;
+    }
+
+    .sec3main {
+        padding: 70px 0;
+    }
+
+    .tab-texts h2 {
+        padding: 0;
+    }
+
+    .tab-texts p {
+        margin: 12px 0;
+    }
+
+    .social-left {
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 836px) {
+    .sec2div {
+        display: block;
+        /* justify-content: center;
+        align-items: center; */
+    }
+
+    .social-left {
+        display: inline;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .social-right {
+        display: block;
+        margin-top: 15px;
+        text-align: center;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .logo img {
+        width: 50px;
+    }
+
+    .header-logo {
+        height: 35px;
+    }
+
+    .sec1 {
+        height: 500px;
+    }
+
+    .ul1 li a {
+        margin: 0 15px;
+        font-size: 13px;
+    }
+
+    .sec4main {
+        margin: 35px 0;
+    }
+
+    .header-left img {
+        width: 100px;
+    }
+
+    .header-left h4 {
+        font-size: 20px;
+    }
+
+    .header-left p {
+        font-size: 13px;
+        margin: 10px 0;
+    }
+
+    .download-button {
+        /* padding: 5px 10px; */
+        /* height: 30px;
+        width: 90px; */
+        font-size: 10px;
+    }
+
+    .header-right form a {
+        margin-top: 62px;
+    }
+
+    .header-right {
+        width: 200px;
+        margin: 0 auto;
+        border-radius: 5px;
+    }
+
+    .header-right form {
+        width: 300px;
+        height: auto;
+    }
+
+    form h1,
+    a {
+        font-size: 13px;
+    }
+
+    form input {
+        margin: 10px 0;
+    }
+
+    .sec2div {
+        display: block;
+    }
+
+    .social-left {
+        display: inline;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .social-right {
+        display: block;
+        margin-top: 15px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .sec3 {
+        grid-template-columns: 15% 42% 25%;
+    }
+
+    .sec6 {
+        display: grid;
+    }
+
+    .sec7 {
+        padding: 5px auto;
+    }
+
+    .tabs {
+        margin: 0 0;
+    }
+
+    .up1 {
+        margin: 5px;
+    }
+
+    .down1 {
+        margin: 25px auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .tabs .tab {
+        width: 90px;
+        height: 90px;
+    }
+
+    .tab-texts {
+        margin: 0 0;
+    }
+
+    .tab-texts h2 {
+        font-size: 20px;
+    }
+
+    .tab-download-btn {
+        width: 107px;
+        height: 36px;
+        border-radius: 3px;
+    }
+
+    .left4 img {
+        /* padding-top: 40px; */
+        height: 330px;
+        width: auto;
+    }
+
+    .right4 h3 {
+        font-size: 17px;
+    }
+
+    .right5 img {
+        width: 380px;
+        height: auto;
+        margin: 0 20px 0 0;
+    }
+
+    .customer p {
+        font-size: 12px;
+    }
+
+    .custname {
+        margin: 34px 0;
+    }
+}
